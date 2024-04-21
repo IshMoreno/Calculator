@@ -1,14 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Calculator
 {
+    /// <summary>
+    /// Class runs calculations
+    /// </summary>
     internal class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Method containing string
+        /// </summary>
+        static void Main()
         {
             double num1;
             double num2;
